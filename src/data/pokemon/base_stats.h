@@ -25092,7 +25092,7 @@ const struct BaseStats gBaseStats[] =
     [SPECIES_ZACIAN] =
     {
         .baseHP        = 92,
-        .baseAttack    = 130,
+        .baseAttack    = 120,
         .baseDefense   = 115,
         .baseSpeed     = 138,
         .baseSpAttack  = 80,
@@ -33775,7 +33775,7 @@ const struct BaseStats gBaseStats[] =
     [SPECIES_ZACIAN_CROWNED_SWORD] =
     {
         .baseHP        = 92,
-        .baseAttack    = 170,
+        .baseAttack    = 150,
         .baseDefense   = 115,
         .baseSpeed     = 148,
         .baseSpAttack  = 80,
@@ -59465,7 +59465,7 @@ const struct BaseStats gVanillaBaseStats[] =
     [SPECIES_ZAMAZENTA] =
     {
         .baseHP        = 92,
-        .baseAttack    = 130,
+        .baseAttack    = 120,
         .baseDefense   = 115,
         .baseSpeed     = 138,
         .baseSpAttack  = 80,
@@ -68190,11 +68190,11 @@ const struct BaseStats gVanillaBaseStats[] =
     [SPECIES_ZAMAZENTA_CROWNED_SHIELD] =
     {
         .baseHP        = 92,
-        .baseAttack    = 130,
-        .baseDefense   = 145,
+        .baseAttack    = 120,
+        .baseDefense   = 140,
         .baseSpeed     = 128,
         .baseSpAttack  = 80,
-        .baseSpDefense = 145,
+        .baseSpDefense = 140,
         .type1 = TYPE_FIGHTING,
         .type2 = TYPE_STEEL,
         .catchRate = 10,
