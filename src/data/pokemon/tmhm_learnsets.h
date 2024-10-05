@@ -23737,6 +23737,7 @@ static const u8 sSawsbuckTMHMLearnset[] =
     TMHM(TM93_WILD_CHARGE),
     TMHM(TM96_NATURE_POWER),
     TMHM(TM100_CONFIDE),
+    TMHM(TM104_PLAY_ROUGH),
     0xFF,
 };
 
