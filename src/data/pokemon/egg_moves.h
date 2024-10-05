@@ -3781,6 +3781,7 @@ const u16 gEggMoves[] = {
 		MOVE_SUCKER_PUNCH,
 		MOVE_SNATCH,
 		MOVE_DARK_PULSE,
+		MOVE_CRUNCH,
 		MOVE_CAPTIVATE),
 
 	egg_moves(MINCCINO,
