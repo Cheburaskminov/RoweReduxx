@@ -18689,6 +18689,7 @@ static const u8 sEternatusTutorLearnset[] =
     TUTOR(MOVE_SLEEP_TALK),
     TUTOR(MOVE_DRACO_METEOR),
     TUTOR(MOVE_DRAGON_PULSE),
+    TUTOR(MOVE_OUTRAGE),
     0xFF,
 };
 
