@@ -10167,6 +10167,7 @@ static const struct LevelUpMove sKyogreLevelUpLearnset[] = {
 
 static const struct LevelUpMove sGroudonLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_MUD_SHOT),
+    LEVEL_UP_MOVE( 1, MOVE_SPIKES),
     LEVEL_UP_MOVE( 1, MOVE_ANCIENT_POWER),
     LEVEL_UP_MOVE( 1, MOVE_LAVA_PLUME),
     LEVEL_UP_MOVE( 1, MOVE_CRUNCH),
