@@ -13380,6 +13380,7 @@ static const u8 sSawsbuckTutorLearnset[] =
     TUTOR(MOVE_ROCK_SMASH),
     TUTOR(MOVE_CUT),
     TUTOR(MOVE_FLASH),
+    TUTOR(MOVE_BODY_SLAM),
     TUTOR(MOVE_STOMPING_TANTRUM),
     0xFF,
 };
