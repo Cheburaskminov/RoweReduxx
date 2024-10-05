@@ -4722,6 +4722,7 @@ const u16 gEggMoves[] = {
 
 	egg_moves(CHEWTLE,
 		MOVE_SKULL_BASH,
+		MOVE_SHELL_SMASH,
 		MOVE_GASTRO_ACID,
 		MOVE_DRAGON_TAIL),
 
