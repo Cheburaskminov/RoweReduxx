@@ -5394,6 +5394,7 @@ static const u8 sEeveeTMHMLearnset[] =
     TMHM(TM88_SLEEP_TALK),
     TMHM(TM90_SUBSTITUTE),
     TMHM(TM100_CONFIDE),
+    TMHM(TM04_CALM_MIND),
     0xFF,
 };
 
@@ -7969,6 +7970,7 @@ static const u8 sEspeonTMHMLearnset[] =
 static const u8 sUmbreonTMHMLearnset[] =
 {
     TMHM(TM06_TOXIC),
+    TMHM(TM04_CALM_MIND),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
     TMHM(TM12_TAUNT),
@@ -18879,6 +18881,7 @@ static const u8 sYanmegaTMHMLearnset[] =
 static const u8 sLeafeonTMHMLearnset[] =
 {
     TMHM(TM05_ROAR),
+    TMHM(TM04_CALM_MIND),
     TMHM(TM06_TOXIC),
     TMHM(TM09_BULLET_SEED),
     TMHM(TM10_HIDDEN_POWER),
@@ -18915,6 +18918,7 @@ static const u8 sLeafeonTMHMLearnset[] =
 static const u8 sGlaceonTMHMLearnset[] =
 {
     TMHM(TM03_WATER_PULSE),
+    TMHM(TM04_CALM_MIND),
     TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM07_HAIL),
