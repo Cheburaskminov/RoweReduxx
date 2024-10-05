@@ -16952,6 +16952,7 @@ static const u8 sGastrodonTMHMLearnset[] =
     TMHM(TM100_CONFIDE),
     TMHM(TM101_SLUDGE_WAVE),
     TMHM(TM108_EARTH_POWER),
+    TMHM(TM110_STEALTH_ROCK),
     0xFF,
 };
 
