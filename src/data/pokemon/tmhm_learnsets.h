@@ -2106,6 +2106,7 @@ static const u8 sGolduckTMHMLearnset[] =
     TMHM(TM100_CONFIDE),
     TMHM(TM102_LIQUIDATION),
     TMHM(TM105_PSYSHOCK),
+    TMHM(TM107_POWER_GEM),
     0xFF,
 };
 
