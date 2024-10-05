@@ -21140,6 +21140,7 @@ static const struct LevelUpMove sGrimmsnarlLevelUpLearnset[] = {
     LEVEL_UP_MOVE(48, MOVE_PLAY_ROUGH),
     LEVEL_UP_MOVE(56, MOVE_FOUL_PLAY),
     LEVEL_UP_MOVE(64, MOVE_HAMMER_ARM),
+    LEVEL_UP_MOVE(70, MOVE_PARTING_SHOT),
     LEVEL_UP_END
 };
 
