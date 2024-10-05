@@ -2997,6 +2997,7 @@ const u16 gEggMoves[] = {
 
 	egg_moves(SHELLOS,
 		MOVE_MIST,
+		MOVE_SPIKES,
 		MOVE_COUNTER,
 		MOVE_SLUDGE,
 		MOVE_ACID_ARMOR,
@@ -3015,6 +3016,7 @@ const u16 gEggMoves[] = {
 
 		egg_moves(SHELLOS_EAST_SEA,
 		MOVE_MIST,
+		MOVE_SPIKES
 		MOVE_COUNTER,
 		MOVE_SLUDGE,
 		MOVE_ACID_ARMOR,
