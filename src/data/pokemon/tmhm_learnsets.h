@@ -22291,6 +22291,7 @@ static const u8 sKrookodileTMHMLearnset[] =
     TMHM(TM97_DARK_PULSE),
     TMHM(TM100_CONFIDE),
     TMHM(TM108_EARTH_POWER),
+    TMHM(TM109_GUNK_SHOT),
     TMHM(TM110_STEALTH_ROCK),
     0xFF,
 };
