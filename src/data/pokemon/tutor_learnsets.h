@@ -13681,6 +13681,8 @@ static const u8 sEelektrossTutorLearnset[] =
     TUTOR(MOVE_DRAGON_PULSE),
     TUTOR(MOVE_FLASH),
     TUTOR(MOVE_VOLT_TACKLE),
+    TUTOR(MOVE_CLOSE_COMBAT),
+    TUTOR(MOVE_STOMPING_TANTRUM),
     0xFF,
 };
 
