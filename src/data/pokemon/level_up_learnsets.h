@@ -11064,8 +11064,8 @@ static const struct LevelUpMove sDrifloonLevelUpLearnset[] = {
 };
 
 static const struct LevelUpMove sDrifblimLevelUpLearnset[] = {
-    LEVEL_UP_MOVE( 0, MOVE_PHANTOM_FORCE),
-    LEVEL_UP_MOVE( 1, MOVE_PHANTOM_FORCE),
+    LEVEL_UP_MOVE( 0, MOVE_AIR_SLASH),
+    LEVEL_UP_MOVE( 1, MOVE_AIR_SLASH),
     LEVEL_UP_MOVE( 1, MOVE_STRENGTH_SAP),
     LEVEL_UP_MOVE( 1, MOVE_MINIMIZE),
     LEVEL_UP_MOVE( 1, MOVE_ASTONISH),
@@ -11087,6 +11087,7 @@ static const struct LevelUpMove sDrifblimLevelUpLearnset[] = {
     LEVEL_UP_MOVE(44, MOVE_BATON_PASS),
     LEVEL_UP_MOVE(46, MOVE_AMNESIA),
     LEVEL_UP_MOVE(48, MOVE_TAILWIND),
+    LEVEL_UP_MOVE(51, MOVE_HURRICANE),
     LEVEL_UP_MOVE(55, MOVE_EXPLOSION),
     LEVEL_UP_MOVE(65, MOVE_PHANTOM_FORCE),
     LEVEL_UP_END
