@@ -8003,6 +8003,7 @@ static const u8 sUmbreonTMHMLearnset[] =
     TMHM(TM90_SUBSTITUTE),
     TMHM(TM95_SNARL),
     TMHM(TM97_DARK_PULSE),
+    TMHM(TM73_THUNDER_WAVE),
     TMHM(TM100_CONFIDE),
     0xFF,
 };
