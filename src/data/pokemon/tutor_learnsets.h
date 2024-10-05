@@ -11698,6 +11698,8 @@ static const u8 sArceusTutorLearnset[] =
     TUTOR(MOVE_HYPER_VOICE),
     TUTOR(MOVE_DEFOG),
     TUTOR(MOVE_WHIRLPOOL),
+    TUTOR(MOVE_FOUL_PLAY),
+    TUTOR(MOVE_BODY_PRESS),
     0xFF,
 };
 
