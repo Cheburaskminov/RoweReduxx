@@ -4524,6 +4524,7 @@ const u16 gEggMoves[] = {
 
 	egg_moves(SALANDIT,
 		MOVE_SAND_ATTACK,
+		MOVE_TOXIC_SPIKES,
 		MOVE_MUD_SLAP,
 		MOVE_FAKE_OUT,
 		MOVE_BELCH,
