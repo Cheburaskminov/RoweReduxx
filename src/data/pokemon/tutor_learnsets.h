@@ -2961,6 +2961,7 @@ static const u8 sScytherTutorLearnset[] =
     TUTOR(MOVE_ROCK_SMASH),
     TUTOR(MOVE_CUT),
     TUTOR(MOVE_DEFOG),
+    TUTOR(MOVE_CLOSE_COMBAT),
     0xFF,
 };
 
@@ -5088,6 +5089,7 @@ static const u8 sScizorTutorLearnset[] =
     TUTOR(MOVE_CUT),
     TUTOR(MOVE_DEFOG),
     TUTOR(MOVE_STEEL_BEAM),
+    TUTOR(MOVE_CLOSE_COMBAT),
     0xFF,
 };
 
