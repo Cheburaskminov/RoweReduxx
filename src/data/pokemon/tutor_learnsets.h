@@ -10767,6 +10767,7 @@ static const u8 sToxicroakTutorLearnset[] =
     TUTOR(MOVE_KNOCK_OFF),
     TUTOR(MOVE_ROCK_SMASH),
     TUTOR(MOVE_STRENGTH),
+    TUTOR(MOVE_CLOSE_COMBAT),
     TUTOR(MOVE_CUT),
     TUTOR(MOVE_FOUL_PLAY),
     0xFF,
