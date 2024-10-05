@@ -24343,6 +24343,7 @@ static const u8 sEelektrossTMHMLearnset[] =
     TMHM(TM91_FLASH_CANNON),
     TMHM(TM93_WILD_CHARGE),
     TMHM(TM100_CONFIDE),
+    TMHM(TM102_LIQUIDATION),
     TMHM(TM119_DRAIN_PUNCH),
     0xFF,
 };
