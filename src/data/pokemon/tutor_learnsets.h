@@ -7489,6 +7489,7 @@ static const u8 sMedichamTutorLearnset[] =
     TUTOR(MOVE_STRENGTH),
     TUTOR(MOVE_FLASH),
     TUTOR(MOVE_PAIN_SPLIT),
+    TUTOR(MOVE_CLOSE_COMBAT),
     0xFF,
 };
 
