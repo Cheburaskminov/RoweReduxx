@@ -18677,6 +18677,7 @@ static const u8 sZamazentaTutorLearnset[] =
     TUTOR(MOVE_CLOSE_COMBAT),
     TUTOR(MOVE_HYPER_VOICE),
     TUTOR(MOVE_STEEL_BEAM),
+    TUTOR(MOVE_BODY_PRESS),
     0xFF,
 };
 
