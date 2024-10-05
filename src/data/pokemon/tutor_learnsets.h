@@ -17975,7 +17975,6 @@ static const u8 sSandacondaTutorLearnset[] =
     TUTOR(MOVE_HIGH_HORSEPOWER),
     TUTOR(MOVE_SCORCHING_SANDS),
     TUTOR(MOVE_THUNDER_FANG),
-    TUTOR(MOVE_FIRE_FANG),
     0xFF,
 };
 
