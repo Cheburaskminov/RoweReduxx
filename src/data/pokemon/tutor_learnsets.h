@@ -11878,6 +11878,7 @@ static const u8 sSamurottTutorLearnset[] =
     TUTOR(MOVE_ROCK_SMASH),
     TUTOR(MOVE_STRENGTH),
     TUTOR(MOVE_CUT),
+    TUTOR(MOVE_DRILL_RUN),
     0xFF,
 };
 
