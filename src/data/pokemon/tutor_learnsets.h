@@ -4535,6 +4535,7 @@ static const u8 sSkiploomTutorLearnset[] =
     TUTOR(MOVE_DEFENSE_CURL),
     TUTOR(MOVE_SEED_BOMB),
     TUTOR(MOVE_FLASH),
+    TUTOR(MOVE_TAILWIND),
     0xFF,
 };
 
@@ -4552,6 +4553,7 @@ static const u8 sJumpluffTutorLearnset[] =
     TUTOR(MOVE_DEFENSE_CURL),
     TUTOR(MOVE_SEED_BOMB),
     TUTOR(MOVE_FLASH),
+    TUTOR(MOVE_TAILWIND),
     0xFF,
 };
 
