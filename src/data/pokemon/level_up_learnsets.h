@@ -5494,6 +5494,7 @@ static const struct LevelUpMove sMisdreavusLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 5, MOVE_SPITE),
     LEVEL_UP_MOVE(10, MOVE_ASTONISH),
     LEVEL_UP_MOVE(14, MOVE_CONFUSE_RAY),
+    LEVEL_UP_MOVE(17, MOVE_DRAINING_KISS),
     LEVEL_UP_MOVE(19, MOVE_MEAN_LOOK),
     LEVEL_UP_MOVE(23, MOVE_HEX),
     LEVEL_UP_MOVE(26, MOVE_PSYBEAM),
@@ -11154,6 +11155,7 @@ static const struct LevelUpMove sLopunnyLevelUpLearnset[] = {
 
 static const struct LevelUpMove sMismagiusLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_MYSTICAL_FIRE),
+    LEVEL_UP_MOVE( 1, MOVE_DRAINING_KISS),
     LEVEL_UP_MOVE( 1, MOVE_POWER_GEM),
     LEVEL_UP_MOVE( 1, MOVE_PHANTOM_FORCE),
     LEVEL_UP_MOVE( 1, MOVE_LUCKY_CHANT),
@@ -11162,6 +11164,7 @@ static const struct LevelUpMove sMismagiusLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_PSYWAVE),
     LEVEL_UP_MOVE( 1, MOVE_SPITE),
     LEVEL_UP_MOVE( 1, MOVE_ASTONISH),
+    LEVEL_UP_MOVE(50, MOVE_MOONBLAST),
     LEVEL_UP_END
 };
 
