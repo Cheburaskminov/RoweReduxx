@@ -1896,6 +1896,7 @@ static const u8 sDugtrioTMHMLearnset[] =
     TMHM(TM108_EARTH_POWER),
     TMHM(TM110_STEALTH_ROCK),
     TMHM(TM118_TRI_ATTACK),
+    TMHM(TM75_SWORDS_DANCE),
     0xFF,
 };
 
@@ -34890,6 +34891,7 @@ static const u8 sDugtrioAlolanTMHMLearnset[] =
     TMHM(TM108_EARTH_POWER),
     TMHM(TM110_STEALTH_ROCK),
     TMHM(TM118_TRI_ATTACK),
+    TMHM(TM75_SWORDS_DANCE),
     0xFF,
 };
 
