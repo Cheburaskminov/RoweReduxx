@@ -4766,6 +4766,7 @@ const u16 gEggMoves[] = {
 
 	egg_moves(TOXEL,
 		MOVE_ENDEAVOR,
+		MOVE_TOXIC_SPIKES,
 		MOVE_METAL_SOUND,
 		MOVE_POWER_UP_PUNCH),
 
