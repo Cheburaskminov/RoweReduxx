@@ -7718,6 +7718,7 @@ static const u8 sSwalotTutorLearnset[] =
     TUTOR(MOVE_ROCK_SMASH),
     TUTOR(MOVE_STRENGTH),
     TUTOR(MOVE_PAIN_SPLIT),
+    TUTOR(MOVE_BODY_PRESS),
     0xFF,
 };
 
