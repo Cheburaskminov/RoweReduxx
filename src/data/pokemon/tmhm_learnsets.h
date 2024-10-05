@@ -7702,6 +7702,7 @@ static const u8 sJumpluffTMHMLearnset[] =
     TMHM(TM90_SUBSTITUTE),
     TMHM(TM99_DAZZLING_GLEAM),
     TMHM(TM100_CONFIDE),
+    TMHM(TM112_POLLEN_PUFF),
     0xFF,
 };
 
