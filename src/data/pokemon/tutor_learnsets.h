@@ -14701,6 +14701,8 @@ static const u8 sChesnaughtTutorLearnset[] =
     TUTOR(MOVE_FLASH),
     TUTOR(MOVE_STOMPING_TANTRUM),
     TUTOR(MOVE_PAIN_SPLIT),
+    TUTOR(MOVE_BODY_PRESS),
+    TUTOR(MOVE_CLOSE_COMBAT),
     0xFF,
 };
 
