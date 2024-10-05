@@ -611,6 +611,7 @@ const u16 gEggMoves[] = {
 	egg_moves(GASTLY,
 		MOVE_DISABLE,
 		MOVE_TOXIC,
+		MOVE_TOXIC_SPIKES,
 		MOVE_HAZE,
 		MOVE_SMOG,
 		MOVE_PERISH_SONG,
