@@ -7965,6 +7965,7 @@ static const u8 sEspeonTMHMLearnset[] =
     TMHM(TM92_TRICK_ROOM),
     TMHM(TM99_DAZZLING_GLEAM),
     TMHM(TM100_CONFIDE),
+    TMHM(TM107_POWER_GEM),
     TMHM(TM105_PSYSHOCK),
     0xFF,
 };
