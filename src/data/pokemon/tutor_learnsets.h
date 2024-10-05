@@ -13880,7 +13880,6 @@ static const u8 sCubchooTutorLearnset[] =
 
 static const u8 sBearticTutorLearnset[] =
 {
-    
     TUTOR(MOVE_MEGA_KICK),
     TUTOR(MOVE_ROCK_SLIDE),
     TUTOR(MOVE_SUBSTITUTE),
@@ -13896,6 +13895,7 @@ static const u8 sBearticTutorLearnset[] =
     TUTOR(MOVE_STRENGTH),
     TUTOR(MOVE_CUT),
     TUTOR(MOVE_ICE_FANG),
+    TUTOR(MOVE_CLOSE_COMBAT),
     0xFF,
 };
 
