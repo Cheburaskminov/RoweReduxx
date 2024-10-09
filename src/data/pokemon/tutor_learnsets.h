@@ -555,6 +555,7 @@ static const u8 sEkansTutorLearnset[] =
 static const u8 sArbokTutorLearnset[] =
 {
     TUTOR(MOVE_BODY_SLAM),
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_DOUBLE_EDGE),
     TUTOR(MOVE_MIMIC),
     TUTOR(MOVE_ROCK_SLIDE),
@@ -1225,6 +1226,7 @@ static const u8 sDugtrioTutorLearnset[] =
 static const u8 sMeowthTutorLearnset[] =
 {
     TUTOR(MOVE_BODY_SLAM),
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_DOUBLE_EDGE),
     TUTOR(MOVE_MIMIC),
     TUTOR(MOVE_DREAM_EATER),
@@ -1250,6 +1252,7 @@ static const u8 sMeowthTutorLearnset[] =
 static const u8 sPersianTutorLearnset[] =
 {
     TUTOR(MOVE_BODY_SLAM),
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_DOUBLE_EDGE),
     TUTOR(MOVE_MIMIC),
     TUTOR(MOVE_DREAM_EATER),
@@ -5481,6 +5484,7 @@ static const u8 sSkarmoryTutorLearnset[] =
 static const u8 sHoundourTutorLearnset[] =
 {
     TUTOR(MOVE_BODY_SLAM),
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_DOUBLE_EDGE),
     TUTOR(MOVE_COUNTER),
     TUTOR(MOVE_MIMIC),
@@ -5504,6 +5508,7 @@ static const u8 sHoundourTutorLearnset[] =
 static const u8 sHoundoomTutorLearnset[] =
 {
     TUTOR(MOVE_BODY_SLAM),
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_DOUBLE_EDGE),
     TUTOR(MOVE_COUNTER),
     TUTOR(MOVE_MIMIC),
@@ -9407,7 +9412,7 @@ static const u8 sJirachiTutorLearnset[] =
 static const u8 sDeoxysTutorLearnset[] =
 {
     TUTOR(MOVE_DREAM_EATER),
-    
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_ROCK_SLIDE),
     TUTOR(MOVE_SUBSTITUTE),
     TUTOR(MOVE_PSYCH_UP),
@@ -11417,7 +11422,7 @@ static const u8 sUxieTutorLearnset[] =
 {
     TUTOR(MOVE_METRONOME),
     TUTOR(MOVE_DREAM_EATER),
-    
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_SUBSTITUTE),
     TUTOR(MOVE_PSYCH_UP),
     TUTOR(MOVE_SNORE),
@@ -11442,7 +11447,7 @@ static const u8 sMespritTutorLearnset[] =
 {
     TUTOR(MOVE_METRONOME),
     TUTOR(MOVE_DREAM_EATER),
-    
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_SUBSTITUTE),
     TUTOR(MOVE_PSYCH_UP),
     TUTOR(MOVE_SNORE),
@@ -13181,7 +13186,7 @@ static const u8 sGarbodorTutorLearnset[] =
 
 static const u8 sZoruaTutorLearnset[] =
 {
-    
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_COUNTER),
     TUTOR(MOVE_SUBSTITUTE),
     TUTOR(MOVE_PSYCH_UP),
@@ -13199,7 +13204,7 @@ static const u8 sZoruaTutorLearnset[] =
 
 static const u8 sZoroarkTutorLearnset[] =
 {
-    
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_MEGA_KICK),
     TUTOR(MOVE_COUNTER),
     TUTOR(MOVE_SUBSTITUTE),
@@ -14643,6 +14648,7 @@ static const u8 sKyuremTutorLearnset[] =
 static const u8 sKeldeoTutorLearnset[] =
 {
     TUTOR(MOVE_SUBSTITUTE),
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_PSYCH_UP),
     TUTOR(MOVE_SNORE),
     TUTOR(MOVE_ICY_WIND),
@@ -16748,6 +16754,7 @@ static const u8 sOranguruTutorLearnset[] =
 static const u8 sPassimianTutorLearnset[] =
 {
     TUTOR(MOVE_MEGA_KICK),
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_IRON_HEAD),
     TUTOR(MOVE_DOUBLE_EDGE),
     TUTOR(MOVE_COUNTER),
@@ -18184,6 +18191,7 @@ static const u8 sSinisteaTutorLearnset[] =
 static const u8 sPolteageistTutorLearnset[] =
 {
     TUTOR(MOVE_METRONOME),
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_SUBSTITUTE),
     TUTOR(MOVE_SNORE),
     TUTOR(MOVE_ENDURE),
@@ -18214,8 +18222,7 @@ static const u8 sHattremTutorLearnset[] =
 
 static const u8 sHattereneTutorLearnset[] =
 {
-    
-    
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_SUBSTITUTE),
     TUTOR(MOVE_SNORE),
     TUTOR(MOVE_ENDURE),
@@ -18395,6 +18402,7 @@ static const u8 sMilceryTutorLearnset[] =
 static const u8 sAlcremieTutorLearnset[] =
 {
     TUTOR(MOVE_METRONOME),
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_SUBSTITUTE),
     TUTOR(MOVE_SNORE),
     TUTOR(MOVE_ENDURE),
@@ -18421,6 +18429,7 @@ static const u8 sFalinksTutorLearnset[] =
 static const u8 sPincurchinTutorLearnset[] =
 {
     TUTOR(MOVE_SPIKES),
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_SUBSTITUTE),
     TUTOR(MOVE_SNORE),
     TUTOR(MOVE_ENDURE),
@@ -18873,6 +18882,7 @@ static const u8 sGlastrierTutorLearnset[] =
 static const u8 sSpectrierTutorLearnset[] =
 {
     TUTOR(MOVE_BODY_SLAM),
+    TUTOR(MOVE_PAIN_SPLIT),
     TUTOR(MOVE_DOUBLE_EDGE),
     TUTOR(MOVE_SUBSTITUTE),
     TUTOR(MOVE_SNORE),
