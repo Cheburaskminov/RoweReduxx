@@ -7913,7 +7913,7 @@ static const u8 sGrumpigTutorLearnset[] =
     TUTOR(MOVE_SEISMIC_TOSS),
     TUTOR(MOVE_MIMIC),
     TUTOR(MOVE_DREAM_EATER),
-    
+    TUTOR(MOVE_HYPER_VOICE),
     TUTOR(MOVE_SUBSTITUTE),
     TUTOR(MOVE_DYNAMIC_PUNCH),
     TUTOR(MOVE_PSYCH_UP),
@@ -14823,6 +14823,7 @@ static const u8 sDelphoxTutorLearnset[] =
     TUTOR(MOVE_RECYCLE),
     TUTOR(MOVE_CUT),
     TUTOR(MOVE_HEAT_WAVE),
+    TUTOR(MOVE_HYPER_VOICE),
     TUTOR(MOVE_FOUL_PLAY),
 	TUTOR(MOVE_SCORCHING_SANDS),
     0xFF,
@@ -16603,7 +16604,7 @@ static const u8 sSalanditTutorLearnset[] =
 
 static const u8 sSalazzleTutorLearnset[] =
 {
-    
+    TUTOR(MOVE_HYPER_VOICE),
     TUTOR(MOVE_SUBSTITUTE),
     TUTOR(MOVE_SNORE),
     TUTOR(MOVE_ENDURE),
@@ -16729,6 +16730,7 @@ static const u8 sComfeyTutorLearnset[] =
 static const u8 sOranguruTutorLearnset[] =
 {
     TUTOR(MOVE_MEGA_KICK),
+    TUTOR(MOVE_HYPER_VOICE),
     TUTOR(MOVE_DREAM_EATER),
     TUTOR(MOVE_ROCK_SLIDE),
     TUTOR(MOVE_SUBSTITUTE),
