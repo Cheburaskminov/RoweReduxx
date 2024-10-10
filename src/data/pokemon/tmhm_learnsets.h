@@ -16463,6 +16463,7 @@ static const u8 sCranidosTMHMLearnset[] =
 static const u8 sRampardosTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
+    TMHM(TM02_DRAGON_CLAW),
     TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
@@ -22202,6 +22203,7 @@ static const u8 sSandileTMHMLearnset[] =
 static const u8 sKrokorokTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
+    TMHM(TM02_DRAGON_CLAW),
     TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
@@ -22225,7 +22227,6 @@ static const u8 sKrokorokTMHMLearnset[] =
     TMHM(TM46_THIEF),
     TMHM(TM49_SNATCH),
     TMHM(TM51_LOW_SWEEP),
-    
     TMHM(TM59_BRUTAL_SWING),
     TMHM(TM63_EMBARGO),
     TMHM(TM65_SHADOW_CLAW),
@@ -28478,6 +28479,7 @@ static const u8 sSliggooTMHMLearnset[] =
 static const u8 sGoodraTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
+    TMHM(TM02_DRAGON_CLAW),
     TMHM(TM03_WATER_PULSE),
     TMHM(TM06_TOXIC),
     TMHM(TM07_HAIL),
@@ -28811,6 +28813,7 @@ static const u8 sAvaluggTMHMLearnset[] =
 
 static const u8 sNoibatTMHMLearnset[] =
 {
+    TMHM(TM02_DRAGON_CLAW),
     TMHM(TM03_WATER_PULSE),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
