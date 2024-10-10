@@ -39,6 +39,7 @@ static const u8 sBulbasaurTMHMLearnset[] =
 
 static const u8 sIvysaurTMHMLearnset[] =
 {
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM09_BULLET_SEED),
     TMHM(TM10_HIDDEN_POWER),
@@ -111,6 +112,7 @@ static const u8 sCharmanderTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM02_DRAGON_CLAW),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -150,6 +152,7 @@ static const u8 sCharmeleonTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM02_DRAGON_CLAW),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -5157,6 +5160,7 @@ static const u8 sElectabuzzTMHMLearnset[] =
 static const u8 sMagmarTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -7339,6 +7343,7 @@ static const u8 sMareepTMHMLearnset[] =
 static const u8 sFlaaffyTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM16_LIGHT_SCREEN),
@@ -7358,7 +7363,6 @@ static const u8 sFlaaffyTMHMLearnset[] =
     TMHM(TM43_SECRET_POWER),
     TMHM(TM44_REST),
     TMHM(TM45_ATTRACT),
-    
     TMHM(TM57_CHARGE_BEAM),
     TMHM(TM72_VOLT_SWITCH),
     TMHM(TM73_THUNDER_WAVE),
@@ -7374,6 +7378,7 @@ static const u8 sFlaaffyTMHMLearnset[] =
 static const u8 sAmpharosTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM15_HYPER_BEAM),
@@ -7936,6 +7941,7 @@ static const u8 sQuagsireTMHMLearnset[] =
 static const u8 sEspeonTMHMLearnset[] =
 {
     TMHM(TM04_CALM_MIND),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -7973,8 +7979,9 @@ static const u8 sEspeonTMHMLearnset[] =
 
 static const u8 sUmbreonTMHMLearnset[] =
 {
-    TMHM(TM06_TOXIC),
     TMHM(TM04_CALM_MIND),
+    TMHM(TM05_ROAR),
+    TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
     TMHM(TM12_TAUNT),
@@ -7997,6 +8004,7 @@ static const u8 sUmbreonTMHMLearnset[] =
     TMHM(TM49_SNATCH),
     TMHM(TM66_PAYBACK),
     TMHM(TM68_GIGA_IMPACT),
+    TMHM(TM73_THUNDER_WAVE),
     TMHM(TM77_PSYCH_UP),
     TMHM(TM85_DREAM_EATER),
     TMHM(TM87_SWAGGER),
@@ -8004,7 +8012,6 @@ static const u8 sUmbreonTMHMLearnset[] =
     TMHM(TM90_SUBSTITUTE),
     TMHM(TM95_SNARL),
     TMHM(TM97_DARK_PULSE),
-    TMHM(TM73_THUNDER_WAVE),
     TMHM(TM100_CONFIDE),
     0xFF,
 };
@@ -18777,6 +18784,7 @@ static const u8 sElectivireTMHMLearnset[] =
 static const u8 sMagmortarTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -18804,7 +18812,6 @@ static const u8 sMagmortarTMHMLearnset[] =
     TMHM(TM50_OVERHEAT),
     TMHM(TM51_LOW_SWEEP),
     TMHM(TM52_FOCUS_BLAST),
-    
     TMHM(TM61_WILL_O_WISP),
     TMHM(TM68_GIGA_IMPACT),
     TMHM(TM78_BULLDOZE),
@@ -21168,6 +21175,7 @@ static const u8 sBlitzleTMHMLearnset[] =
 
 static const u8 sZebstrikaTMHMLearnset[] =
 {
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM15_HYPER_BEAM),
@@ -25949,6 +25957,7 @@ static const u8 sThundurusTMHMLearnset[] =
 static const u8 sReshiramTMHMLearnset[] =
 {
     TMHM(TM02_DRAGON_CLAW),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -25973,7 +25982,6 @@ static const u8 sReshiramTMHMLearnset[] =
     TMHM(TM47_STEEL_WING),
     TMHM(TM50_OVERHEAT),
     TMHM(TM52_FOCUS_BLAST),
-    
     TMHM(TM59_BRUTAL_SWING),
     TMHM(TM61_WILL_O_WISP),
     TMHM(TM65_SHADOW_CLAW),
@@ -25999,6 +26007,7 @@ static const u8 sZekromTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM02_DRAGON_CLAW),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM15_HYPER_BEAM),
@@ -26021,7 +26030,6 @@ static const u8 sZekromTMHMLearnset[] =
     TMHM(TM44_REST),
     TMHM(TM47_STEEL_WING),
     TMHM(TM52_FOCUS_BLAST),
-    
     TMHM(TM57_CHARGE_BEAM),
     TMHM(TM59_BRUTAL_SWING),
     TMHM(TM65_SHADOW_CLAW),
@@ -26098,6 +26106,7 @@ static const u8 sLandorusTMHMLearnset[] =
 static const u8 sKyuremTMHMLearnset[] =
 {
     TMHM(TM02_DRAGON_CLAW),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM07_HAIL),
     TMHM(TM10_HIDDEN_POWER),
@@ -26121,7 +26130,6 @@ static const u8 sKyuremTMHMLearnset[] =
     TMHM(TM44_REST),
     TMHM(TM47_STEEL_WING),
     TMHM(TM52_FOCUS_BLAST),
-    
     TMHM(TM59_BRUTAL_SWING),
     TMHM(TM65_SHADOW_CLAW),
     TMHM(TM66_PAYBACK),
@@ -28260,6 +28268,7 @@ static const u8 sAurorusTMHMLearnset[] =
 static const u8 sSylveonTMHMLearnset[] =
 {
     TMHM(TM04_CALM_MIND),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -34278,8 +34287,8 @@ static const u8 sDracovishTMHMLearnset[] =
 static const u8 sArctovishTMHMLearnset[] =
 {
     TMHM(TM06_TOXIC),
-	TMHM(TM10_HIDDEN_POWER),
-	TMHM(TM07_HAIL),
+    TMHM(TM07_HAIL),
+    TMHM(TM10_HIDDEN_POWER),
     TMHM(TM13_ICE_BEAM),
     TMHM(TM14_BLIZZARD),
     TMHM(TM15_HYPER_BEAM),
@@ -34302,9 +34311,10 @@ static const u8 sArctovishTMHMLearnset[] =
 
 static const u8 sDuraludonTMHMLearnset[] =
 {
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
-	TMHM(TM10_HIDDEN_POWER),
-	TMHM(TM02_DRAGON_CLAW),
+    TMHM(TM10_HIDDEN_POWER),
+    TMHM(TM02_DRAGON_CLAW),
     TMHM(TM15_HYPER_BEAM),
     TMHM(TM16_LIGHT_SCREEN),
     TMHM(TM17_PROTECT),
@@ -34446,9 +34456,10 @@ static const u8 sZacianTMHMLearnset[] =
 
 static const u8 sZamazentaTMHMLearnset[] =
 {
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
-	TMHM(TM10_HIDDEN_POWER),
-	TMHM(TM15_HYPER_BEAM),
+    TMHM(TM10_HIDDEN_POWER),
+    TMHM(TM15_HYPER_BEAM),
     TMHM(TM16_LIGHT_SCREEN),
     TMHM(TM17_PROTECT),
     TMHM(TM20_SAFEGUARD),
@@ -34528,6 +34539,7 @@ static const u8 sKubfuTMHMLearnset[] =
 static const u8 sUrshifuTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM08_BULK_UP),
@@ -34563,6 +34575,7 @@ static const u8 sUrshifuTMHMLearnset[] =
 
 static const u8 sZarudeTMHMLearnset[] =
 {
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
 	TMHM(TM10_HIDDEN_POWER),
 	TMHM(TM08_BULK_UP),
@@ -35673,6 +35686,7 @@ static const u8 sShayminSkyTMHMLearnset[] =
 static const u8 sKyuremBlackTMHMLearnset[] =
 {
     TMHM(TM02_DRAGON_CLAW),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM07_HAIL),
     TMHM(TM10_HIDDEN_POWER),
@@ -35696,7 +35710,6 @@ static const u8 sKyuremBlackTMHMLearnset[] =
     TMHM(TM44_REST),
     TMHM(TM47_STEEL_WING),
     TMHM(TM52_FOCUS_BLAST),
-    
     TMHM(TM59_BRUTAL_SWING),
     TMHM(TM65_SHADOW_CLAW),
     TMHM(TM66_PAYBACK),
@@ -35719,6 +35732,7 @@ static const u8 sKyuremBlackTMHMLearnset[] =
 static const u8 sKyuremWhiteTMHMLearnset[] =
 {
     TMHM(TM02_DRAGON_CLAW),
+    TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM07_HAIL),
     TMHM(TM10_HIDDEN_POWER),
@@ -35742,7 +35756,6 @@ static const u8 sKyuremWhiteTMHMLearnset[] =
     TMHM(TM44_REST),
     TMHM(TM47_STEEL_WING),
     TMHM(TM52_FOCUS_BLAST),
-    
     TMHM(TM59_BRUTAL_SWING),
     TMHM(TM65_SHADOW_CLAW),
     TMHM(TM66_PAYBACK),
