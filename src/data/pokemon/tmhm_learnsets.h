@@ -218,7 +218,6 @@ static const u8 sCharizardTMHMLearnset[] =
     TMHM(TM50_OVERHEAT),
     TMHM(TM52_FOCUS_BLAST),
     TMHM(TM54_FALSE_SWIPE),
-    
     TMHM(TM58_ROOST),
     TMHM(TM59_BRUTAL_SWING),
     TMHM(TM61_WILL_O_WISP),
@@ -32536,8 +32535,8 @@ static const u8 sCinderaceTMHMLearnset[] =
 static const u8 sSobbleTMHMLearnset[] =
 {
     TMHM(TM06_TOXIC),
-	TMHM(TM10_HIDDEN_POWER),
-	TMHM(TM03_WATER_PULSE),
+    TMHM(TM10_HIDDEN_POWER),
+    TMHM(TM03_WATER_PULSE),
     TMHM(TM16_LIGHT_SCREEN),
     TMHM(TM17_PROTECT),
     TMHM(TM18_RAIN_DANCE),
