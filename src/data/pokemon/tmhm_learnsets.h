@@ -15070,6 +15070,7 @@ static const u8 sBeldumTMHMLearnset[] =
 
 static const u8 sMetangTMHMLearnset[] =
 {
+    TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -15111,6 +15112,7 @@ static const u8 sMetangTMHMLearnset[] =
 
 static const u8 sMetagrossTMHMLearnset[] =
 {
+    TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -15445,6 +15447,7 @@ static const u8 sKyogreTMHMLearnset[] =
 
 static const u8 sGroudonTMHMLearnset[] =
 {
+    TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM02_DRAGON_CLAW),
     TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
@@ -25991,6 +25994,7 @@ static const u8 sReshiramTMHMLearnset[] =
 
 static const u8 sZekromTMHMLearnset[] =
 {
+    TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM02_DRAGON_CLAW),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
@@ -29597,6 +29601,7 @@ static const u8 sYungoosTMHMLearnset[] =
 
 static const u8 sGumshoosTMHMLearnset[] =
 {
+    TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
@@ -29615,7 +29620,6 @@ static const u8 sGumshoosTMHMLearnset[] =
     TMHM(TM44_REST),
     TMHM(TM45_ATTRACT),
     TMHM(TM46_THIEF),
-    
     TMHM(TM66_PAYBACK),
     TMHM(TM78_BULLDOZE),
     TMHM(TM87_SWAGGER),
@@ -32413,9 +32417,10 @@ static const u8 sThwackeyTMHMLearnset[] =
 
 static const u8 sRillaboomTMHMLearnset[] =
 {
+    TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM06_TOXIC),
-	TMHM(TM10_HIDDEN_POWER),
-	TMHM(TM08_BULK_UP),
+    TMHM(TM10_HIDDEN_POWER),
+    TMHM(TM08_BULK_UP),
     TMHM(TM09_BULLET_SEED),
     TMHM(TM11_SUNNY_DAY),
     TMHM(TM12_TAUNT),
@@ -33622,9 +33627,10 @@ static const u8 sMorgremTMHMLearnset[] =
 
 static const u8 sGrimmsnarlTMHMLearnset[] =
 {
+    TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM06_TOXIC),
-	TMHM(TM10_HIDDEN_POWER),
-	TMHM(TM08_BULK_UP),
+    TMHM(TM10_HIDDEN_POWER),
+    TMHM(TM08_BULK_UP),
     TMHM(TM12_TAUNT),
     TMHM(TM15_HYPER_BEAM),
     TMHM(TM16_LIGHT_SCREEN),
@@ -34491,9 +34497,9 @@ static const u8 sEternatusTMHMLearnset[] =
 
 static const u8 sKubfuTMHMLearnset[] =
 {
+    TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM06_TOXIC),
-	TMHM(TM10_HIDDEN_POWER),
-	TMHM(TM01_FOCUS_PUNCH),
+    TMHM(TM10_HIDDEN_POWER),
     TMHM(TM08_BULK_UP),
     TMHM(TM17_PROTECT),
     TMHM(TM28_DIG),
@@ -34512,9 +34518,9 @@ static const u8 sKubfuTMHMLearnset[] =
 
 static const u8 sUrshifuTMHMLearnset[] =
 {
+    TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
-    TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM08_BULK_UP),
     TMHM(TM12_TAUNT),
     TMHM(TM17_PROTECT),
