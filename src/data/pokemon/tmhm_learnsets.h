@@ -1404,6 +1404,7 @@ static const u8 sJigglypuffTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM03_WATER_PULSE),
+    TMHM(TM04_CALM_MIND),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -1432,7 +1433,6 @@ static const u8 sJigglypuffTMHMLearnset[] =
     TMHM(TM44_REST),
     TMHM(TM45_ATTRACT),
     TMHM(TM49_SNATCH),
-    TMHM(TM113_NASTY_PLOT),
     TMHM(TM57_CHARGE_BEAM),
     TMHM(TM73_THUNDER_WAVE),
     TMHM(TM74_GYRO_BALL),
@@ -1447,6 +1447,7 @@ static const u8 sJigglypuffTMHMLearnset[] =
     TMHM(TM100_CONFIDE),
     TMHM(TM104_PLAY_ROUGH),
     TMHM(TM110_STEALTH_ROCK),
+    TMHM(TM113_NASTY_PLOT),
     TMHM(TM118_TRI_ATTACK),
     TMHM(TM119_DRAIN_PUNCH),
     0xFF,
@@ -1456,6 +1457,7 @@ static const u8 sWigglytuffTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM03_WATER_PULSE),
+    TMHM(TM04_CALM_MIND),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -1486,7 +1488,6 @@ static const u8 sWigglytuffTMHMLearnset[] =
     TMHM(TM45_ATTRACT),
     TMHM(TM49_SNATCH),
     TMHM(TM52_FOCUS_BLAST),
-    TMHM(TM113_NASTY_PLOT),
     TMHM(TM57_CHARGE_BEAM),
     TMHM(TM68_GIGA_IMPACT),
     TMHM(TM73_THUNDER_WAVE),
@@ -1502,6 +1503,7 @@ static const u8 sWigglytuffTMHMLearnset[] =
     TMHM(TM100_CONFIDE),
     TMHM(TM104_PLAY_ROUGH),
     TMHM(TM110_STEALTH_ROCK),
+    TMHM(TM113_NASTY_PLOT),
     TMHM(TM118_TRI_ATTACK),
     TMHM(TM119_DRAIN_PUNCH),
     0xFF,
@@ -7127,6 +7129,7 @@ static const u8 sIgglybuffTMHMLearnset[] =
 static const u8 sTogepiTMHMLearnset[] =
 {
     TMHM(TM03_WATER_PULSE),
+    TMHM(TM04_CALM_MIND),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -7149,7 +7152,6 @@ static const u8 sTogepiTMHMLearnset[] =
     TMHM(TM43_SECRET_POWER),
     TMHM(TM44_REST),
     TMHM(TM45_ATTRACT),
-    
     TMHM(TM73_THUNDER_WAVE),
     TMHM(TM77_PSYCH_UP),
     TMHM(TM85_DREAM_EATER),
@@ -7171,6 +7173,7 @@ static const u8 sTogeticTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM03_WATER_PULSE),
+    TMHM(TM04_CALM_MIND),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -7196,7 +7199,6 @@ static const u8 sTogeticTMHMLearnset[] =
     TMHM(TM44_REST),
     TMHM(TM45_ATTRACT),
     TMHM(TM47_STEEL_WING),
-    
     TMHM(TM67_SMART_STRIKE),
     TMHM(TM68_GIGA_IMPACT),
     TMHM(TM73_THUNDER_WAVE),
@@ -14480,6 +14482,7 @@ static const u8 sDusclopsTMHMLearnset[] =
 
 static const u8 sTropiusTMHMLearnset[] =
 {
+    TMHM(TM04_CALM_MIND),
     TMHM(TM05_ROAR),
     TMHM(TM06_TOXIC),
     TMHM(TM09_BULLET_SEED),
@@ -14501,10 +14504,10 @@ static const u8 sTropiusTMHMLearnset[] =
     TMHM(TM45_ATTRACT),
     TMHM(TM47_STEEL_WING),
     TMHM(TM53_ENERGY_BALL),
+    TMHM(TM58_ROOST),
     TMHM(TM59_BRUTAL_SWING),
     TMHM(TM68_GIGA_IMPACT),
     TMHM(TM75_SWORDS_DANCE),
-    TMHM(TM58_ROOST),
     TMHM(TM76_FLY),
     TMHM(TM78_BULLDOZE),
     TMHM(TM86_GRASS_KNOT),
@@ -18818,6 +18821,7 @@ static const u8 sTogekissTMHMLearnset[] =
 {
     TMHM(TM01_FOCUS_PUNCH),
     TMHM(TM03_WATER_PULSE),
+    TMHM(TM04_CALM_MIND),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -18843,11 +18847,10 @@ static const u8 sTogekissTMHMLearnset[] =
     TMHM(TM44_REST),
     TMHM(TM45_ATTRACT),
     TMHM(TM47_STEEL_WING),
-    
+    TMHM(TM58_ROOST),
     TMHM(TM67_SMART_STRIKE),
     TMHM(TM68_GIGA_IMPACT),
     TMHM(TM73_THUNDER_WAVE),
-    TMHM(TM58_ROOST),
     TMHM(TM76_FLY),
     TMHM(TM77_PSYCH_UP),
     TMHM(TM85_DREAM_EATER),
@@ -26432,6 +26435,7 @@ static const u8 sChesnaughtTMHMLearnset[] =
 
 static const u8 sFennekinTMHMLearnset[] =
 {
+    TMHM(TM04_CALM_MIND),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -26468,6 +26472,7 @@ static const u8 sFennekinTMHMLearnset[] =
 
 static const u8 sBraixenTMHMLearnset[] =
 {
+    TMHM(TM04_CALM_MIND),
     TMHM(TM06_TOXIC),
     TMHM(TM10_HIDDEN_POWER),
     TMHM(TM11_SUNNY_DAY),
@@ -33446,9 +33451,10 @@ static const u8 sGrapploctTMHMLearnset[] =
 
 static const u8 sSinisteaTMHMLearnset[] =
 {
+    TMHM(TM04_CALM_MIND),
     TMHM(TM06_TOXIC),
-	TMHM(TM10_HIDDEN_POWER),
-	TMHM(TM17_PROTECT),
+    TMHM(TM10_HIDDEN_POWER),
+    TMHM(TM17_PROTECT),
     TMHM(TM19_GIGA_DRAIN),
     TMHM(TM29_PSYCHIC),
     TMHM(TM30_SHADOW_BALL),
@@ -33466,9 +33472,10 @@ static const u8 sSinisteaTMHMLearnset[] =
 
 static const u8 sPolteageistTMHMLearnset[] =
 {
+    TMHM(TM04_CALM_MIND),
     TMHM(TM06_TOXIC),
-	TMHM(TM10_HIDDEN_POWER),
-	TMHM(TM15_HYPER_BEAM),
+    TMHM(TM10_HIDDEN_POWER),
+    TMHM(TM15_HYPER_BEAM),
     TMHM(TM16_LIGHT_SCREEN),
     TMHM(TM17_PROTECT),
     TMHM(TM19_GIGA_DRAIN),
